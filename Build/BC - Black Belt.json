@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "BC-Minigame Ninja",
+"productVersion": "0.1",
+"dataUrl": "BC - Black Belt.data.unityweb",
+"wasmCodeUrl": "BC - Black Belt.wasm.code.unityweb",
+"wasmFrameworkUrl": "BC - Black Belt.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.38f1"
+}
